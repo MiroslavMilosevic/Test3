@@ -1,0 +1,19 @@
+p{
+    padding: 1px;
+    margin: 1px;
+    background-color: rgb(57, 180, 154);
+}
+body{
+    background-color: rgb(216, 225, 241);
+}
+.brod{
+    background-color: rgb(97, 125, 185);
+    margin-bottom: 2%;
+}
+.slika{
+width: 120px;
+height: 100px;
+}
+.select{
+    width: 20%;
+}
